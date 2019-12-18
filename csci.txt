@@ -1,0 +1,94 @@
+
+Last Name First Name Gender Rate Tenure  Salary
+    Starr     Howard      M    H      8   30.00
+  Jacobus       Joan      F    W      9  925.00
+     Renn      David      M    H      3    4.75
+   Cahana     Albert      M    H      3   18.75
+    Sheer    Douglas      M    W      5  250.00
+  Buchman      Shari      F    W      9  325.00
+    Jones       Sara      F    H      1    7.50
+   Mofsen      Ricky      M    H      6   12.50
+  Brennan       Jean      F    H      6    5.40
+    Starr    Deborah      F    W      3 1000.00
+ Michaels      Jamie      F    W      8  150.00
+
+Number of Employees: 11
+
+All Women:
+Joan
+Shari
+Sara
+Jean
+Deborah
+Jamie
+
+Employees of 5 or more years with a weekly salary of 673.00 or greater:
+
+Starr Deborah 1000.00
+
+Increased Salaries:
+
+Renn David 5.50
+
+Sheer Douglas 300.00
+
+Buchman Shari 375.00
+
+Jones Sara 8.25
+
+Brennan Jean 6.15
+
+Michaels Jamie 200.00
+
+Sorted
+
+Last Name First Name Gender Rate Tenure  Salary
+  Brennan       Jean      F    H      6    6.15
+  Buchman      Shari      F    W      9  375.00
+   Cahana     Albert      M    H      3   18.75
+  Jacobus       Joan      F    W      9  925.00
+    Jones       Sara      F    H      1    8.25
+ Michaels      Jamie      F    W      8  200.00
+   Mofsen      Ricky      M    H      6   12.50
+     Renn      David      M    H      3    5.50
+    Sheer    Douglas      M    W      5  300.00
+    Starr    Deborah      F    W      3 1000.00
+    Starr     Howard      M    H      8   30.00
+
+Number of Employees: 11
+
+Updated Payroll
+
+Last Name First Name    Allen      Barry
+  Brennan       Jean
+  Buchman      Shari
+   Cahana     Albert
+  Jacobus       Joan
+    Jones       Sara
+ Michaels      Jamie
+   Mofsen      Ricky
+  Pinella       Nina
+     Renn      David
+    Sheer    Douglas
+    Starr    Deborah
+    Starr     Howard
+   Wagger       Lane
+
+Number of Employees: 14
+
+After terminations:
+
+Last Name First Name    Allen      Barry
+  Buchman      Shari
+   Cahana     Albert
+  Jacobus       Joan
+    Jones       Sara
+ Michaels      Jamie
+  Pinella       Nina
+     Renn      David
+    Sheer    Douglas
+    Starr    Deborah
+    Starr     Howard
+   Wagger       Lane
+
+Number of Employees: 12
